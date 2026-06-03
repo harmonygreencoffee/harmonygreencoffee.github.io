@@ -1,0 +1,51 @@
+.company-story-section {
+  padding: 64px 20px;
+  background: linear-gradient(to bottom, rgb(21, 124, 66), rgb(6, 129, 27));
+}
+
+.story-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 48px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.grid-item {
+  text-align: center;
+}
+
+.circle {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background-color: rgb(101, 65, 55);
+  margin: 0 auto 24px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.section-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 16px;
+  color: white;
+}
+
+.section-text {
+  color: #ffffff;
+  line-height: 1.7;
+}
