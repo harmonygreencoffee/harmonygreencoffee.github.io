@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="hero-content">
         <h2 className="hero-title">Premium Green Coffee Importing</h2>
         <p className="hero-text">
-          <strong>Harmony</strong> signifies a group of musical sounds, notes, and chords coming together to create a pleaseing effect.<strong>We believe that our coffee can produce this same satisfying result to your senses.</strong>
+          <strong>Harmony</strong> signifies a group of musical sounds, notes, and chords coming together to create a pleasing effect.<strong>We believe that our coffee can produce this same satisfying result to your senses.</strong>
         </p>
       </div>
     </section>
